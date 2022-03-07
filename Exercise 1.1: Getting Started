@@ -1,0 +1,5 @@
+koomj@koomjVM:~$ sudo docker ps -a
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
+0359706f5a7d   nginx     "/docker-entrypoint.…"   6 minutes ago    Exited (0) 23 seconds ago             keen_merkle
+c4f3dba96e92   nginx     "/docker-entrypoint.…"   6 minutes ago    Exited (0) 18 seconds ago             serene_sinoussi
+dfda0ed72853   nginx     "/docker-entrypoint.…"   7 minutes ago    Up 6 minutes                80/tcp    vigilant_chaum
